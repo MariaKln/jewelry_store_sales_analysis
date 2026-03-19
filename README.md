@@ -10,9 +10,16 @@
 ### Стек:
 <p>
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-	<img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+	<img src="https://img.shields.io/badge/Datalens-FF6600?style=for-the-badge&logo=datalens&logoColor=white" alt="Datalens" />
 </p>
 
+---
 
+### Решение:
 
-[Построеныый дашборд]
+1. Из названий товарных групп выделены название категории и вид металла. 
+2. Расчитаны основные метрики продаж (выручка, прибыль, средний чек). 
+3. Проведен сравнительный анализ прибыльности и кол-ва покупок изделий из указанных металлов. 
+4. Результаты анализа для наглядности представлены на дашборде (Datalens).
+
+[Построеныый дашборд](https://github.com/MariaKln/jewelry_store_sales_analysis/blob/main/fullscreen_1_tab.png)
